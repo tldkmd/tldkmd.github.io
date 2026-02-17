@@ -1,10 +1,8 @@
 
-## سياسة الخصوصية وتطبيقات «طلال المحمدي»
+## سياسة الخصوصية 
 
-### (تطبيق تمام - Tamam | تطبيق ملفي - Malafi)
 
-**تاريخ التحديث:** 15 فبراير 2026
-**المطور:** طلال المحمدي (tldkmd)
+**المطور:** طلال المحمدي 
 **التواصل:** [tldkmd@live.com]
 
 ---
@@ -29,9 +27,8 @@
 
 ---
 
-### Privacy Policy (Summary)
+### Privacy Policy
 
-**Developer:** Talal Almohammadi
 
 #### 1. Tamam App
 
@@ -44,11 +41,3 @@
 * **Privacy First:** No account required. We have no access to your files.
 * **File Access:** Permissions are used only for on-device file management.
 * **User Control:** You are the sole owner of your data. Deleting the app removes all its local data.
-
----
-
-### نصيحة لتقديمها في App Store Connect:
-
-عندما يسألك النظام عن **Data Collection** لكل تطبيق، اختر **"No, we do not collect data from this app"**. هذا يتوافق تماماً مع ما كتبناه أعلاه وسيعطي تطبيقك ملصق الخصوصية الأزرق الموثوق.
-
-**هل تريد مني أن أجهز لك نص "وصف التطبيق" (App Description) ليكون جاهزاً للرفع أيضاً؟**
