@@ -42,7 +42,8 @@
 * **File Access:** Permissions are used only for on-device file management.
 * **User Control:** You are the sole owner of your data. Deleting the app removes all its local data.
 
-  • ### 3. Macheck
+
+### 3. Macheck
 
   Macheck is a macOS application for device maintenance and monitoring its security and operational status. The app runs
   locally on the user’s device and uses system data only to display performance indicators, scan active ports, analyze
