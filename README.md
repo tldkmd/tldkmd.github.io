@@ -41,3 +41,24 @@
 * **Privacy First:** No account required. We have no access to your files.
 * **File Access:** Permissions are used only for on-device file management.
 * **User Control:** You are the sole owner of your data. Deleting the app removes all its local data.
+
+  • ### 3. Macheck
+
+  Macheck is a macOS application for device maintenance and monitoring its security and operational status. The app runs
+  locally on the user’s device and uses system data only to display performance indicators, scan active ports, analyze
+  system errors, evaluate startup items, and manage specific maintenance operations with the user’s consent.
+
+  Macheck processes data such as CPU, memory, and storage usage, local error logs, active ports and running process
+  information, paths of certain system files and startup items, and the in-app maintenance operation history. This data
+  remains on the user’s device and is not sent to our servers or shared with third parties by default.
+
+  Macheck does not use data for advertising tracking, does not link it to the user’s identity, and does not collect
+  contact information, location data, photos, contacts, health data, or financial data. The app currently does not
+  include external analytics tools, advertising SDKs, or cloud services for collecting user data.
+
+  The app may request additional system permissions from macOS or Apple to enable advanced security features, such as
+  monitoring system or network behavior, solely to provide on-device scanning, protection, and maintenance functions.
+  When any elevated permission is used, the app follows the principle of least privilege, requires user consent,
+  performs a pre-check and simulation before any impactful operation, and records the operation locally for transparency
+  and audit purposes.
+
